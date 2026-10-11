@@ -1,0 +1,10 @@
+{
+  "name": "portfolio-lucas-alves-pereira",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfólio profissional de Lucas Alves Pereira — Direito, pesquisa e tecnologia.",
+  "type": "module",
+  "scripts": { "dev": "vite --host 127.0.0.1", "build": "tsc --noEmit && vite build", "preview": "vite preview --host 127.0.0.1" },
+  "dependencies": { "react": "^19.2.7", "react-dom": "^19.2.7", "lucide-react": "^0.577.0" },
+  "devDependencies": { "@types/react": "^19.2.17", "@types/react-dom": "^19.2.3", "@vitejs/plugin-react": "^6.0.2", "typescript": "^6.0.3", "vite": "8.0.16" }
+}
